@@ -1,0 +1,1 @@
+"use strict";function $(o){var e=document.querySelectorAll(o);return 1==e.length?e[0]:e}console.log(window.document),console.log(window.document.head),console.log(window.document.body);

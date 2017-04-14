@@ -1,0 +1,1 @@
+"use strict";var app=function(){console.log("init ...");var t={};return t.count=0,t.trackEvent=function(){return t.count++},t.resetCount=function(){return t.count=0},{track:t.trackEvent}}();

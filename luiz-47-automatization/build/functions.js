@@ -1,0 +1,1 @@
+"use strict";function mensagem(){var n="Ensino e Inovação...";return alert(n),n}function soma(){for(var n=arguments.length,r=Array(n),e=0;e<n;e++)r[e]=arguments[e];return r.reduce(function(n,r){return n+r})}var message=function(){return"hello"};

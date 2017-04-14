@@ -1,0 +1,1 @@
+"use strict";!function(){fetch("https://viacep.com.br/ws/01001000/json/").then(function(n){return n.json()}).then(console.log).catch(console.error)}();

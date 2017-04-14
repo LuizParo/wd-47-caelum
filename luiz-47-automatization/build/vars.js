@@ -1,0 +1,1 @@
+"use strict";var nome="Leonardo",idade=34,bonito=!0;
